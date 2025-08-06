@@ -1,4 +1,4 @@
-# 🛍️ dbt DataBricks - Retail Data Warehouse
+# 🛍️ dbt-Databricks - Retail Data Warehouse
 
 [![dbt](https://img.shields.io/badge/dbt-1.7+-orange.svg)](https://docs.getdbt.com)
 [![Databricks](https://img.shields.io/badge/Databricks-Compatible-red.svg)](https://databricks.com)
